@@ -1,0 +1,15 @@
+D:\school\op_practice\19.10.2022\2 task\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\school\op_practice\19.10.2022\2 task\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\school\op_practice\19.10.2022\2 task\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\school\op_practice\19.10.2022\2 task\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\school\op_practice\19.10.2022\2 task\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\school\op_practice\19.10.2022\2 task\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\school\op_practice\19.10.2022\2 task\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\op_practice\19.10.2022\2 task\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\school\op_practice\19.10.2022\2 task\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\school\op_practice\19.10.2022\2 task\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\school\op_practice\19.10.2022\2 task\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\school\op_practice\19.10.2022\2 task\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\school\op_practice\19.10.2022\2 task\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\school\op_practice\19.10.2022\2 task\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\school\op_practice\19.10.2022\2 task\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
